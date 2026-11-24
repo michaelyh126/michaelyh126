@@ -5,7 +5,7 @@
 
 ### 🌐 [**Visit My Interactive Portfolio & Live App Hub → michaelyh126.github.io**](https://michaelyh126.github.io/)
 
-> Because client and research source repositories remain private for confidentiality, I compiled and deployed **9 original production frontends live** — sanitized with **100% synthetic/mock demo data**, zero login walls, and zero private backend dependencies — so you can test real shipped software directly in your browser.
+> **Bilingual (`EN` default / `中文` one-click toggle synced across all apps)** · Because client and research source repositories remain private for confidentiality, I compiled and deployed **9 original production frontends live** — sanitized with **100% synthetic/mock demo data**, zero login walls, and zero private backend dependencies — so you can test real shipped software directly in your browser.
 
 ---
 
